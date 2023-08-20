@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaEgitim.iml" filepath="$PROJECT_DIR$/.idea/JavaEgitim.iml" />
+=======
+>>>>>>> 1b98dd7a99aec354559c39a5b6a4ded6f74bfe00
       <module fileurl="file://$PROJECT_DIR$/Week-02-Examples/Week-02-Examples.iml" filepath="$PROJECT_DIR$/Week-02-Examples/Week-02-Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-03-Examples/Week-03-Examples.iml" filepath="$PROJECT_DIR$/Week-03-Examples/Week-03-Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week04-Examples/Week04-Examples.iml" filepath="$PROJECT_DIR$/Week04-Examples/Week04-Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week05-Examples/Week05-Examples.iml" filepath="$PROJECT_DIR$/Week05-Examples/Week05-Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week06-Examples/Week06-Examples.iml" filepath="$PROJECT_DIR$/Week06-Examples/Week06-Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week07-Examples/Week07-Examples.iml" filepath="$PROJECT_DIR$/Week07-Examples/Week07-Examples.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Week08-Examples/Week08-Examples.iml" filepath="$PROJECT_DIR$/Week08-Examples/Week08-Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week09-Examples/Week09-Examples.iml" filepath="$PROJECT_DIR$/Week09-Examples/Week09-Examples.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week_7.iml" filepath="$PROJECT_DIR$/.idea/Week_7.iml" />
+>>>>>>> 1b98dd7a99aec354559c39a5b6a4ded6f74bfe00
     </modules>
   </component>
 </project>

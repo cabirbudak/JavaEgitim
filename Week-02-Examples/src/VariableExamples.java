@@ -6,7 +6,7 @@ public class VariableExamples {
         boolean booleanCondition;
         double doubleNumber;
         char character;
-        System.out.print("Girdiğiniz sayı: "+ intNumber  + " dir");
+        System.out.print("Girdiğiniz sayı: "+ floatNumber  + " dir");
 }}
 
 
